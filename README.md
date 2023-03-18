@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Will Darlington
-- 👀 I’m interested in frontend dev.
+- 👀 I’m a frontend dev.
 - 🌱 I’m currently learning JavaScript...
 - 💞️ I’m looking to collaborate on  ...
 - 📫 How to reach me . willempire670@gmail.com
